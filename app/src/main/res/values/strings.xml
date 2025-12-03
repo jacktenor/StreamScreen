@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StreamScreenAndroid2</string>
+    <string name="status_not_sharing">Status: Not sharing</string>
+    <string name="start_sharing">Start Sharing</string>
+    <string name="enter_password">Enter password</string>
+    <string name="stream_password">Stream password:</string>
+    <string name="lan_screen_share">LAN Screen Share</string>
+    <string name="beeralator_com">Beeralator.com</string>
+    <string name="beeralator_com2">Beeralator.com</string>
+    <string name="streamscreen">StreamScreen</string>
+    <string name="thekittyimage">Thekittyimage</string>
+    <string name="port_e_g_8081">Port (e.g. 8081)</string>
+    <string name="_8081">8081</string>
+    <string name="stop_sharing">Stop Sharing</string>
+    <string name="status_not_sharing2">Status: Not sharing</string>
+    <string name="start_sharing2">Start Sharing</string>
+</resources>
